@@ -1808,9 +1808,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\crud-dotnet.csproj",
-      "projectName": "crud-dotnet",
-      "projectPath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\crud-dotnet.csproj",
+      "projectUniqueName": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\teste-tecnico-guilherme.csproj",
+      "projectName": "teste-tecnico-guilherme",
+      "projectPath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\teste-tecnico-guilherme.csproj",
       "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\obj\\",
       "projectStyle": "PackageReference",

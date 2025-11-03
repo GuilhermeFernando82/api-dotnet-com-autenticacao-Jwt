@@ -12,7 +12,7 @@
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
         public decimal TotalValue { get; set; }
         public decimal DiscountValue { get; set; }
-        public OrderStatus Status { get; set; }   // <-- Enum em vez de string
+        public OrderStatus Status { get; set; }
         public List<OrderItem> Items { get; set; } = new();
     }
 }

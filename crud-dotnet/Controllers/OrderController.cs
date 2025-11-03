@@ -3,7 +3,6 @@ using crud_dotnet.Models;
 using crud_dotnet.Repository;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using System.Text.Json.Serialization;
 
 [ApiController]
 [Route("api/[controller]")]
@@ -22,16 +21,29 @@ public class PedidosController : ControllerBase
     public async Task<IActionResult> CreateOrder([FromBody] CreateOrderDto dto)
     {
         if (dto == null || dto.Items == null || !dto.Items.Any())
-            return BadRequest("Pedido inválido");
+            return BadRequest(new { Message = "Pedido inválido." });
+
+        if (!Enum.TryParse<OrderStatus>(dto.Status, true, out var status) || !Enum.IsDefined(typeof(OrderStatus), status))
+        {
+            return BadRequest(new
+            {
+                Message = $"Status inválido. Valores válidos: {string.Join(", ", Enum.GetNames(typeof(OrderStatus)))}"
+            });
+        }
 
         try
         {
-            var order = await _orderService.CreateOrderAsync(dto);
-            return CreatedAtAction(nameof(GetOrderById), new { id = order.Id }, order);
+            var order = await _orderService.CreateOrderAsync(dto, status);
+
+            return Ok(new
+            {
+                Message = "Pedido feito com sucesso!",
+                Order = order
+            });
         }
         catch (Exception ex)
         {
-            return BadRequest(ex.Message);
+            return BadRequest(new { Message = ex.Message });
         }
     }
 
@@ -41,12 +53,15 @@ public class PedidosController : ControllerBase
         try
         {
             var order = await _repository.GetOrderByIdAsync(id);
-            if (order == null) return NotFound();
+
+            if (order == null)
+                return NotFound(new { Message = $"Nenhum pedido encontrado com o Id {id}." });
+
             return Ok(order);
         }
         catch (Exception ex)
         {
-            return StatusCode(500, $"Erro inesperado: {ex.Message}");
+            return StatusCode(500, new { Message = $"Erro inesperado: {ex.Message}" });
         }
     }
 

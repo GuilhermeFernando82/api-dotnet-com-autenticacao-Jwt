@@ -12,6 +12,20 @@ namespace crud_dotnet.Repository
         {
             _context = context;
         }
+        public async Task<List<int>> GetExistingProductIdsAsync(List<int> productIds)
+        {
+            return await _context.Products
+                .Where(p => productIds.Contains(p.Id))
+                .Select(p => p.Id)
+                .ToListAsync();
+        }
+
+        public async Task<List<Product>> GetProductsByIdsAsync(List<int> productIds)
+        {
+            return await _context.Products
+            .Where(p => productIds.Contains(p.Id))
+            .ToListAsync();
+        }
         public async Task<List<string>> GetProductCategoriesAsync(List<int> productIds)
         {
             if (productIds == null || !productIds.Any())
@@ -19,7 +33,7 @@ namespace crud_dotnet.Repository
 
             return await _context.Products
                 .Where(p => productIds.Contains(p.Id))
-                .Select(p => p.Category.ToString()) // <-- acessar o nome da categoria
+                .Select(p => p.Category.ToString())
                 .Distinct()
                 .ToListAsync();
         }
@@ -38,14 +52,6 @@ namespace crud_dotnet.Repository
                     .ThenInclude(i => i.Product)
                 .FirstOrDefaultAsync(o => o.Id == id);
         }
-        public async Task<List<int>> GetExistingProductIdsAsync(List<int> productIds)
-        {
-            return await _context.Products
-                .Where(p => productIds.Contains(p.Id))
-                .Select(p => p.Id)
-                .ToListAsync();
-        }
-
         public async Task AddOrderAsync(Order order)
         {
             order.TotalValue = order.Items?.Sum(i => i.UnitPrice * i.Quantity) ?? 0;

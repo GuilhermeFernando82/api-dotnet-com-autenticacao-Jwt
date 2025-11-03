@@ -4,6 +4,6 @@ namespace crud_dotnet.Repository
 {
     public interface IOrderService
     {
-        Task<Order> CreateOrderAsync(CreateOrderDto dto);
+        Task<Order> CreateOrderAsync(CreateOrderDto dto, OrderStatus status);
     }
 }
