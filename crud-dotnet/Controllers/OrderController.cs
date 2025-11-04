@@ -20,30 +20,30 @@ public class PedidosController : ControllerBase
     [HttpPost]
     public async Task<IActionResult> CreateOrder([FromBody] CreateOrderDto dto)
     {
-        if (dto == null || dto.Items == null || !dto.Items.Any())
-            return BadRequest(new { Message = "Pedido inválido." });
-
-        if (!Enum.TryParse<OrderStatus>(dto.Status, true, out var status) || !Enum.IsDefined(typeof(OrderStatus), status))
-        {
-            return BadRequest(new
-            {
-                Message = $"Status inválido. Valores válidos: {string.Join(", ", Enum.GetNames(typeof(OrderStatus)))}"
-            });
-        }
+        if (!ModelState.IsValid)
+            return BadRequest(ModelState);
 
         try
         {
-            var order = await _orderService.CreateOrderAsync(dto, status);
+            var order = await _orderService.CreateOrderAsync(dto);
 
-            return Ok(new
-            {
-                Message = "Pedido feito com sucesso!",
-                Order = order
-            });
+            // 🔹 Retorna 201 Created + objeto criado
+            return CreatedAtAction(
+                nameof(GetOrderById), // método GET para recuperar o pedido
+                new { id = order.Id }, // parâmetro da rota
+                new
+                {
+                    Message = "Pedido criado com sucesso!",
+                    Order = order
+                });
         }
-        catch (Exception ex)
+        catch (DbUpdateException dbEx)
         {
-            return BadRequest(new { Message = ex.Message });
+            return StatusCode(500, new
+            {
+                Message = "Erro ao salvar no banco.",
+                Detail = dbEx.InnerException?.Message ?? dbEx.Message
+            });
         }
     }
 
@@ -91,7 +91,10 @@ public class PedidosController : ControllerBase
 
             var order = await _repository.GetOrderByIdAsync(id);
             if (order == null) return NotFound();
-
+            if (order.Status == OrderStatus.Approved || order.Status == OrderStatus.Canceled)
+            {
+                return BadRequest($"Não é permitido alterar o status de um pedido que já está '{order.Status}'.");
+            }
             order.Status = status;
             _repository.UpdateOrder(order);
             await _repository.SaveChangesAsync();

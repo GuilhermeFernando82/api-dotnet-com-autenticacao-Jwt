@@ -12,6 +12,10 @@ namespace crud_dotnet.Repository
         {
             _context = context;
         }
+        public void AddProduct(Product product)
+        {
+            _context.Products.Add(product);
+        }
         public async Task<List<int>> GetExistingProductIdsAsync(List<int> productIds)
         {
             return await _context.Products

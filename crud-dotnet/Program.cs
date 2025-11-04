@@ -6,8 +6,16 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using System.Text.Json.Serialization;
+using crud_dotnet.Validators;
+using FluentValidation.AspNetCore;
+using crud_dotnet.Validators;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddControllers()
+    .AddFluentValidation(fv =>
+        fv.RegisterValidatorsFromAssemblyContaining<CreateOrderValidator>());
+
 var devCorsPolicy = "devCorsPolicy";
 // Add services to the container.
 

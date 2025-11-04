@@ -13,5 +13,6 @@ namespace crud_dotnet.Interfaces
         Task<List<int>> GetExistingProductIdsAsync(List<int> productIds);
         Task<List<string>> GetProductCategoriesAsync(List<int> productIds);
         Task<List<Product>> GetProductsByIdsAsync(List<int> productIds); // <-- novo método
+        void AddProduct(Product product);
     }
 }

@@ -117,10 +117,6 @@
       "CreateOrderDto": {
         "type": "object",
         "properties": {
-          "status": {
-            "type": "string",
-            "nullable": true
-          },
           "items": {
             "type": "array",
             "items": {
@@ -137,6 +133,18 @@
           "productId": {
             "type": "integer",
             "format": "int32"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "category": {
+            "type": "string",
+            "nullable": true
+          },
+          "price": {
+            "type": "number",
+            "format": "double"
           },
           "quantity": {
             "type": "integer",

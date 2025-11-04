@@ -48,3 +48,6 @@ C:\Users\guilh\OneDrive\Área de Trabalho\Test\api-dotnet-com-autenticacao-Jwt\c
 C:\Users\guilh\OneDrive\Área de Trabalho\Test\api-dotnet-com-autenticacao-Jwt\crud-dotnet\obj\Debug\net8.0\teste-tecnico-guilherme.pdb
 C:\Users\guilh\OneDrive\Área de Trabalho\Test\api-dotnet-com-autenticacao-Jwt\crud-dotnet\obj\Debug\net8.0\teste-tecnico-guilherme.genruntimeconfig.cache
 C:\Users\guilh\OneDrive\Área de Trabalho\Test\api-dotnet-com-autenticacao-Jwt\crud-dotnet\obj\Debug\net8.0\ref\teste-tecnico-guilherme.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Test\api-dotnet-com-autenticacao-Jwt\crud-dotnet\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Test\api-dotnet-com-autenticacao-Jwt\crud-dotnet\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Test\api-dotnet-com-autenticacao-Jwt\crud-dotnet\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll

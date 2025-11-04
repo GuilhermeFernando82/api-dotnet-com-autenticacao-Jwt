@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "VQVfXPL3/ms=",
+  "dgSpecHash": "32wxkFESldE=",
   "success": true,
   "projectFilePath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\teste-tecnico-guilherme.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\guilh\\.nuget\\packages\\fluentvalidation\\12.1.0\\fluentvalidation.12.1.0.nupkg.sha512",
+    "C:\\Users\\guilh\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.1\\fluentvalidation.aspnetcore.11.3.1.nupkg.sha512",
+    "C:\\Users\\guilh\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.11.0\\fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

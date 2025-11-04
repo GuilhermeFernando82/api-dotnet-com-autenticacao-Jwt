@@ -3,36 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\test\\api-dotnet-com-autenticacao-jwt\\crud-dotnet\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|solutionrelative:crud-dotnet\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\test\\api-dotnet-com-autenticacao-jwt\\crud-dotnet\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|solutionrelative:crud-dotnet\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\test\\api-dotnet-com-autenticacao-jwt\\crud-dotnet\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|solutionrelative:crud-dotnet\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\test\\api-dotnet-com-autenticacao-jwt\\crud-dotnet\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|solutionrelative:crud-dotnet\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\test\\api-dotnet-com-autenticacao-jwt\\crud-dotnet\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|solutionrelative:crud-dotnet\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\test\\api-dotnet-com-autenticacao-jwt\\crud-dotnet\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|solutionrelative:crud-dotnet\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\test\\api-dotnet-com-autenticacao-jwt\\crud-dotnet\\dto\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|solutionrelative:crud-dotnet\\dto\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\test\\api-dotnet-com-autenticacao-jwt\\crud-dotnet\\dto\\createorderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|solutionrelative:crud-dotnet\\dto\\createorderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\test\\api-dotnet-com-autenticacao-jwt\\crud-dotnet\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,12 +15,56 @@
       "RelativeMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|solutionrelative:crud-dotnet\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\test\\api-dotnet-com-autenticacao-jwt\\crud-dotnet\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|solutionrelative:crud-dotnet\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\test\\api-dotnet-com-autenticacao-jwt\\crud-dotnet\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|solutionrelative:crud-dotnet\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\test\\api-dotnet-com-autenticacao-jwt\\crud-dotnet\\validators\\createrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|solutionrelative:crud-dotnet\\validators\\createrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\test\\api-dotnet-com-autenticacao-jwt\\crud-dotnet\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|solutionrelative:crud-dotnet\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\test\\api-dotnet-com-autenticacao-jwt\\crud-dotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|solutionrelative:crud-dotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\test\\api-dotnet-com-autenticacao-jwt\\crud-dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|solutionrelative:crud-dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\test\\api-dotnet-com-autenticacao-jwt\\crud-dotnet\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|solutionrelative:crud-dotnet\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\test\\api-dotnet-com-autenticacao-jwt\\crud-dotnet\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|solutionrelative:crud-dotnet\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\test\\api-dotnet-com-autenticacao-jwt\\crud-dotnet\\dto\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|solutionrelative:crud-dotnet\\dto\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\test\\api-dotnet-com-autenticacao-jwt\\crud-dotnet\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|solutionrelative:crud-dotnet\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\test\\api-dotnet-com-autenticacao-jwt\\crud-dotnet\\dto\\createorderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|solutionrelative:crud-dotnet\\dto\\createorderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\test\\api-dotnet-com-autenticacao-jwt\\crud-dotnet\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|solutionrelative:crud-dotnet\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\test\\api-dotnet-com-autenticacao-jwt\\crud-dotnet\\dto\\updateorderstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|solutionrelative:crud-dotnet\\dto\\updateorderstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\test\\api-dotnet-com-autenticacao-jwt\\crud-dotnet\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|solutionrelative:crud-dotnet\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\test\\api-dotnet-com-autenticacao-jwt\\crud-dotnet\\teste-tecnico-guilherme.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -57,22 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\test\\api-dotnet-com-autenticacao-jwt\\crud-dotnet\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|solutionrelative:crud-dotnet\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\test\\api-dotnet-com-autenticacao-jwt\\crud-dotnet\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|solutionrelative:crud-dotnet\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\test\\api-dotnet-com-autenticacao-jwt\\crud-dotnet\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|solutionrelative:crud-dotnet\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\test\\api-dotnet-com-autenticacao-jwt\\crud-dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|solutionrelative:crud-dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\test\\api-dotnet-com-autenticacao-jwt\\crud-dotnet\\dto\\updateorderstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A15DC14B-E6BF-485D-B8BE-F936BDDC569B}|crud-dotnet\\teste-tecnico-guilherme.csproj|solutionrelative:crud-dotnet\\dto\\updateorderstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,63 +82,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Services\\OrderService.cs",
-              "RelativeDocumentMoniker": "crud-dotnet\\Services\\OrderService.cs",
-              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Services\\OrderService.cs",
-              "RelativeToolTip": "crud-dotnet\\Services\\OrderService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T16:47:35.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "crud-dotnet\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Models\\Order.cs",
-              "RelativeToolTip": "crud-dotnet\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAeAAAAAAAAAA==",
+              "Title": "CreateRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Validators\\CreateRequestValidator.cs",
+              "RelativeDocumentMoniker": "crud-dotnet\\Validators\\CreateRequestValidator.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Validators\\CreateRequestValidator.cs*",
+              "RelativeToolTip": "crud-dotnet\\Validators\\CreateRequestValidator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T14:30:21.944Z",
+              "WhenOpened": "2025-11-03T23:56:08.563Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Repository\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "crud-dotnet\\Repository\\OrderRepository.cs",
-              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Repository\\OrderRepository.cs",
-              "RelativeToolTip": "crud-dotnet\\Repository\\OrderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "crud-dotnet\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "crud-dotnet\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:30:21.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "crud-dotnet\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Models\\Order.cs",
+              "RelativeToolTip": "crud-dotnet\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T14:30:21.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Interfaces\\IOrderRepository.cs",
-              "RelativeDocumentMoniker": "crud-dotnet\\Interfaces\\IOrderRepository.cs",
-              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Interfaces\\IOrderRepository.cs",
-              "RelativeToolTip": "crud-dotnet\\Interfaces\\IOrderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAxAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Program.cs",
+              "RelativeDocumentMoniker": "crud-dotnet\\Program.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Program.cs",
+              "RelativeToolTip": "crud-dotnet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T14:30:21.947Z",
+              "WhenOpened": "2025-11-03T14:30:21.955Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\appsettings.json",
               "RelativeDocumentMoniker": "crud-dotnet\\appsettings.json",
@@ -151,57 +151,137 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "crud-dotnet\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Properties\\launchSettings.json",
-              "RelativeToolTip": "crud-dotnet\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-03T14:31:33.587Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Program.cs",
-              "RelativeDocumentMoniker": "crud-dotnet\\Program.cs",
-              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Program.cs",
-              "RelativeToolTip": "crud-dotnet\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "crud-dotnet\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Services\\OrderService.cs*",
+              "RelativeToolTip": "crud-dotnet\\Services\\OrderService.cs*",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAIwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T14:30:21.955Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "crud-dotnet\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "crud-dotnet\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCgAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T14:30:21.957Z",
+              "WhenOpened": "2025-11-03T16:47:35.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Models\\Product.cs",
               "RelativeDocumentMoniker": "crud-dotnet\\Models\\Product.cs",
               "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Models\\Product.cs",
               "RelativeToolTip": "crud-dotnet\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T14:30:21.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "crud-dotnet\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Models\\OrderItem.cs",
+              "RelativeToolTip": "crud-dotnet\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:37:15.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\DTO\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "crud-dotnet\\DTO\\CreateOrderDto.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\DTO\\CreateOrderDto.cs",
+              "RelativeToolTip": "crud-dotnet\\DTO\\CreateOrderDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAMBUwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T15:17:44.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "crud-dotnet\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "crud-dotnet\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:30:21.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "crud-dotnet\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "crud-dotnet\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T16:49:01.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "crud-dotnet\\Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "crud-dotnet\\Repository\\OrderRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:30:21.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "crud-dotnet\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "crud-dotnet\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:30:21.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "CreateOrderItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\DTO\\CreateOrderItemDto.cs",
+              "RelativeDocumentMoniker": "crud-dotnet\\DTO\\CreateOrderItemDto.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\DTO\\CreateOrderItemDto.cs",
+              "RelativeToolTip": "crud-dotnet\\DTO\\CreateOrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T15:18:33.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateOrderStatusDto.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\DTO\\UpdateOrderStatusDto.cs",
+              "RelativeDocumentMoniker": "crud-dotnet\\DTO\\UpdateOrderStatusDto.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\DTO\\UpdateOrderStatusDto.cs",
+              "RelativeToolTip": "crud-dotnet\\DTO\\UpdateOrderStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T16:12:33.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "teste-tecnico-guilherme.csproj",
               "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\teste-tecnico-guilherme.csproj",
               "RelativeDocumentMoniker": "crud-dotnet\\teste-tecnico-guilherme.csproj",
@@ -214,84 +294,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Interfaces\\IOrderService.cs",
-              "RelativeDocumentMoniker": "crud-dotnet\\Interfaces\\IOrderService.cs",
-              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Interfaces\\IOrderService.cs",
-              "RelativeToolTip": "crud-dotnet\\Interfaces\\IOrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T16:49:01.218Z",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "crud-dotnet\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Properties\\launchSettings.json",
+              "RelativeToolTip": "crud-dotnet\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-03T14:31:33.587Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "crud-dotnet\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Models\\Category.cs",
-              "RelativeToolTip": "crud-dotnet\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T16:22:26.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CreateOrderDto.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\DTO\\CreateOrderDto.cs",
-              "RelativeDocumentMoniker": "crud-dotnet\\DTO\\CreateOrderDto.cs",
-              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\DTO\\CreateOrderDto.cs",
-              "RelativeToolTip": "crud-dotnet\\DTO\\CreateOrderDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T15:17:44.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Models\\OrderItem.cs",
-              "RelativeDocumentMoniker": "crud-dotnet\\Models\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Models\\OrderItem.cs",
-              "RelativeToolTip": "crud-dotnet\\Models\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T14:37:15.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CreateOrderItemDto.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\DTO\\CreateOrderItemDto.cs",
-              "RelativeDocumentMoniker": "crud-dotnet\\DTO\\CreateOrderItemDto.cs",
-              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\DTO\\CreateOrderItemDto.cs",
-              "RelativeToolTip": "crud-dotnet\\DTO\\CreateOrderItemDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T15:18:33.35Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "crud-dotnet\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "crud-dotnet\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAwwAkAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T14:30:21.955Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Settings.cs",
               "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\Settings.cs",
               "RelativeDocumentMoniker": "crud-dotnet\\Settings.cs",
@@ -299,19 +315,8 @@
               "RelativeToolTip": "crud-dotnet\\Settings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T14:30:21.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UpdateOrderStatusDto.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\DTO\\UpdateOrderStatusDto.cs",
-              "RelativeDocumentMoniker": "crud-dotnet\\DTO\\UpdateOrderStatusDto.cs",
-              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\Test\\api-dotnet-com-autenticacao-Jwt\\crud-dotnet\\DTO\\UpdateOrderStatusDto.cs",
-              "RelativeToolTip": "crud-dotnet\\DTO\\UpdateOrderStatusDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T16:12:33.331Z"
+              "WhenOpened": "2025-11-03T14:30:21.941Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("teste-tecnico-guilherme")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+517632b117ac87fde17d3d075cdbf68f098fdd0d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e4d83f8c9f72ce01b62e91763e895b585b53818")]
 [assembly: System.Reflection.AssemblyProductAttribute("teste-tecnico-guilherme")]
 [assembly: System.Reflection.AssemblyTitleAttribute("teste-tecnico-guilherme")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
